@@ -5,3 +5,7 @@ package com.example.app;
  */
 public class Treehouse {
 }
+
+public getString(){
+    return "";
+}
